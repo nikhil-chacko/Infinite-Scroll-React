@@ -1,7 +1,7 @@
 import './App.css';
-import InfiniteScroller from './Components/InfiniteScroller'
-import InfiniteScroll from './Components/InfiniteScroll';
-import ScrollComponent from './Components/ScrollComponent'
+// import InfiniteScroller from './Components/InfiniteScroller'
+// import InfiniteScroll from './Components/InfiniteScroll';
+// import ScrollComponent from './Components/ScrollComponent'
 import WebDevScroll from './Components/WebDevScroll'
 
 function App() {
